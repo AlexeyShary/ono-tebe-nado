@@ -247,7 +247,7 @@
 }
 
 .footer {
-  padding: 182px 51px 0 51px;
+  padding: 182px 50px 90px;
   display: grid;
   grid-template-columns: 2fr 1fr 2fr;
   align-items: flex-start;
